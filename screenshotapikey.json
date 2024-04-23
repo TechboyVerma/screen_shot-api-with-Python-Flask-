@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "human-resourse-managemen-cc065",
+  "private_key_id": "19a8233f30de8771d300ba83dcb5c6e524570545",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYj+tLl8pjn/B8\n8QrK/PliQJlMBVaGk+fMwqW1su+5Uw/AeajZOMgkCcnHB0HDfHPdaf8gXKpV7lqE\nSV5U3hmudBRZ8VB7HEoFjfpdo22gSPOXCM3eDr5RyGfihpwjSz8iQUznlWpIrkzl\nGVdrqABeKDhmLldxSOfqQuwvNvSUSCUbP5uEMVKel31u3aqMn7/oMYMU4NOrZuMR\n/cAOrsgWWvaMkGVak+AzMXtfL5d6K9i+g6MfKmtVPnYBOG4N7LslCwx5uOCmGAaj\noPC0Na6Vb3GEuYdUxNTppPnq6mor1JGnpTyEisFvYoNrp+iwZzMQzlG/Efcr3lNq\nQ88P1DWpAgMBAAECggEAGrdrVF3U0Lz3w51/jxwdfQYEgnJV3HPmzi4REGBxSCJC\nWinD9qRRsjPvnLXJ37a54J6ZEb0AjFNVESD7DsAlPa5wyO5wMlr6IH5kR4Ug48aa\nt8qQKLCqxg4jGSGLEsgw2moWkmCRUACMETuumjj9tX90HvrDD+DdUiIdk8gbLSMu\n3FU3nZOjqi4uwtFK/lToMMRVhFLpMheNgckMydQPcvw9py735ic3UyQbxXTUCGDN\nudPkodzkRtEtGiY55uQ1C0lQ/igKnZPhRxFdXmuAcG6X45n/ur7vYrmBqy9Dl3FL\n9gIN98DPAXPrHcrdrsq7RK2ysmNN/7HWS8r8kMfpvQKBgQDRj0C4sWZTMvrJ7Sea\nPrb7jlTgA/7FzWikAxMlUMVR6EpBaLDtomzja3nPCZjWm/s/IbjjsLmSxr3Wm9Cn\niuN05d0Zmd0Wf3PVHlP1EcWaTbcG88AMcxNhlIpvC+JpjxPpyVKA+3hBbnvRd6HO\nlq8KmkWLaYyy6E+OcOlKMb3fJQKBgQC6XxYf2f9n4hrU4zcGNrO9WUDj8Hfu33n9\n9kAVuRHBuq70RIgfCJ/DeUZCrNNGed9WS7OZxITcx2rK39R1yh4JgJEkiKFb0q6L\n8GkpkTtNBb6CgeXwLA1QkKVzHd5g/eXE+fzgn5bsvUEiFKKzmG+W/yXeBtM5E9UI\njuc4/k8HNQKBgBdrRvRc/u51WAmQ80gNki1yrpGKYMKCPht2LIGTEToiF4pPxNYJ\nvNl9fVNh4y64p89aWWs4qMR6aWS+bQcMQnch6R+fTlHhVHSQuxk8LzUbUkT4oJHD\nmnrhOsdGMLtTPgp2cT3w3HOTgUrbb73CoTUyIGuAFDU6OQnWHHwqKunxAoGAdpib\nk5k9lfWj7WTJVwLoTc3GJUaYi0Fad+mDzk7+pbEONBKILHdocxNxSmx/5ZEYNenm\nWCteAMBFjOPyZyI/CvztX7oyNCRVPme2A+WPPuww1wuiLrtZnbLuFdsj78Shuj76\nVFY5zFyCXhWTk4WlPQkQJ8FgGCounkuRiAsMbyECgYAnRvF+23IjKwIhR22HAFeY\nPivd7/hBK/cF8QtmMHlwIJd+YCictHmOHaIHOhJvJQnvLyWuIfGmiS3ki7efUhPa\ny71NRvQaPKtA8PP8kGuS+rwGnpjk/KbdLjoVxI6pwX7HuNOMb/fEuT1/NI4qX4OI\nP9RMLGTS9V2Gdcpp0nyMEw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rt2uc@human-resourse-managemen-cc065.iam.gserviceaccount.com",
+  "client_id": "109533520709245818516",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rt2uc%40human-resourse-managemen-cc065.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

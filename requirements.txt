@@ -1,0 +1,6 @@
+flask
+firebase-admin
+Pillow
+ntplib
+datetime
+pyautogui
