@@ -1,8 +1,0 @@
-flask
-firebase-admin
-Pillow
-ntplib
-datetime
-pyautogui
-Gunicorn
-Waitress
