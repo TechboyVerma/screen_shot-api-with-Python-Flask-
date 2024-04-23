@@ -2,10 +2,9 @@ from flask import Flask, request, jsonify
 import firebase_admin
 from firebase_admin import credentials, storage, db, firestore
 import pyautogui
-from PIL import Image
+
 import io
-import ntplib
-from time import ctime
+
 import datetime
 
 # Initialize Flask app
