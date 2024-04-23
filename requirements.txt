@@ -4,4 +4,5 @@ Pillow
 ntplib
 datetime
 pyautogui
-Gunicorn
+
+Waitress
