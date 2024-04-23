@@ -57,8 +57,8 @@ def upload_screenshot():
 
     return f'Screenshot uploaded successfully: {download_url}'
 
-#if __name__ == '__main__':
+if __name__ == '__main__':
     # Specify the port you want to use, for example, 8080
- #   port = 8080
+    port = 8080
     # Start the Flask app with the specified port
-  #  app.run( port=port)
+    app.run(host='0.0.0.0', port=port)
