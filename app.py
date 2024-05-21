@@ -11,7 +11,7 @@ import datetime
 app = Flask(__name__)
 
 # Initialize Firebase Admin SDK
-cred = credentials.Certificate('') #yours database api keys
+cred = credentials.Certificate('screenshotapikey.json') #yours database api keys
 firebase_admin.initialize_app(cred, {
     'storageBucket': 'human-resourse-managemen-cc065.appspot.com',
     'databaseURL': 'https://human-resourse-managemen-cc065-default-rtdb.firebaseio.com'
